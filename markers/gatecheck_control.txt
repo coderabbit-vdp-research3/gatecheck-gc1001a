@@ -1,0 +1,1 @@
+GATECHECK_CONTROL_BENIGN_MARKER_1001A (authorized VDP fixture, benign)
